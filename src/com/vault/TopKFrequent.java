@@ -22,7 +22,7 @@ public class TopKFrequent {
 			}
 			 
 		}
-		map.forEach((key, value) -> System.out.println(key + " " + value));
+		//map.forEach((key, value) -> System.out.println(key + " " + value));
 		
 		return output;
 	}
